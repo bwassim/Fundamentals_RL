@@ -13,3 +13,8 @@ What will be addressed
 - Understand how to formalize your task as a Reinforcement Learning problem, and how to begin implementing a solution. 
 - Understand the space of RL algorithms (Temporal- Difference learning, Monte Carlo, Sarsa, Q-learning, Policy Gradients, Dyna, and more).
 - Understand how RL fits under the broader umbrella of machine learning, and how it complements deep learning, supervised and unsupervised learning  
+
+## Course 1: Fundamentals of Reinforcement Learning 
+- Objectives: Syllabus 
+- Bandits and Exploration/Exploitation
+- Optimal Policies with Dynamic Programming
